@@ -1,6 +1,6 @@
 DDOS Bildirim Sistemi
 
-Created By HasanAtilan
+Yapımcı: HasanAtilan
 
 Version: 1.0
 
